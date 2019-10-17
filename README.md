@@ -18,4 +18,4 @@ Links
 - [Maven](//maven.apache.org)
 - [MySQL](//www.mysql.com)
 - [MariaDB](//mariadb.org)
-- [Maharishi University of Management](//www.mum.edu)
+-
